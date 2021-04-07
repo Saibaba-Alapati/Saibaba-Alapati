@@ -8,7 +8,7 @@
 ### 🚀 Skills
 <img align="left" alt="SA | React" width=22px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img align="left" alt="SA | MongoDB" width=22px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-<img align="left" alt="SA | PostgreSQL" width=22px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg>
+<img align="left" alt="SA | PostgreSQL" height=30px width=90px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
 <img align="left" alt="SA | Javascript" width=22px src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
 <img align="left" alt="SA | Typescript" width=22px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img align="left" alt="SA | Flutter" width=22px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
